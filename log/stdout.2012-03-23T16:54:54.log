@@ -1,0 +1,46 @@
+[Fri, 23 Mar 2012 22:50:31 GMT] INFO Server starting with config: {
+  "environment": "development",
+  "workers": 1,
+  "port": 4000,
+  "debug": true,
+  "rotateWorkers": false,
+  "rotationWindow": 7200000,
+  "rotationTimeout": 300000,
+  "logDir": "/Users/noragabrielamora/Projects/Personal/geedy/todo_app/log",
+  "gracefulShutdownTimeout": 30000,
+  "heartbeatInterval": 5000,
+  "heartbeatWindow": 20000,
+  "staticFilePath": "/Users/noragabrielamora/Projects/Personal/geedy/todo_app/public",
+  "sessions": {
+    "store": "memory",
+    "key": "sid",
+    "expiry": 1209600
+  },
+  "cookieSessionKey": "sdata",
+  "metrics": null,
+  "i18n": {
+    "defaultLocale": "en-us",
+    "loadPaths": [
+      "/Users/noragabrielamora/Projects/Personal/geedy/todo_app/config/locales"
+    ]
+  },
+  "ssl": null,
+  "detailedErrors": true,
+  "hostname": null
+}
+[Fri, 23 Mar 2012 22:50:31 GMT] INFO Creating 1 worker process.
+[Fri, 23 Mar 2012 22:50:31 GMT] INFO Server worker running in development on port 4000 with a PID of: 1875
+[Fri, 23 Mar 2012 22:50:31 GMT] DEBUG LOGGING STARTED ============================================
+[Fri, 23 Mar 2012 22:50:31 GMT] DEBUG ============================================================
+[Fri, 23 Mar 2012 22:52:56 GMT] INFO Creating 1 worker process.
+[Fri, 23 Mar 2012 22:52:56 GMT] INFO Server worker running in development on port 4000 with a PID of: 1881
+[Fri, 23 Mar 2012 22:52:56 GMT] DEBUG LOGGING STARTED ============================================
+[Fri, 23 Mar 2012 22:52:56 GMT] DEBUG ============================================================
+[Fri, 23 Mar 2012 22:53:11 GMT] INFO Creating 1 worker process.
+[Fri, 23 Mar 2012 22:53:11 GMT] INFO Server worker running in development on port 4000 with a PID of: 1882
+[Fri, 23 Mar 2012 22:53:11 GMT] DEBUG LOGGING STARTED ============================================
+[Fri, 23 Mar 2012 22:53:11 GMT] DEBUG ============================================================
+[Fri, 23 Mar 2012 22:54:16 GMT] INFO Creating 1 worker process.
+[Fri, 23 Mar 2012 22:54:16 GMT] INFO Server worker running in development on port 4000 with a PID of: 1885
+[Fri, 23 Mar 2012 22:54:16 GMT] DEBUG LOGGING STARTED ============================================
+[Fri, 23 Mar 2012 22:54:16 GMT] DEBUG ============================================================
